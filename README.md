@@ -4,8 +4,7 @@
 
 ### 🎓 CourseHub  **Live Site:** [https://coursehub-7fd47.web.app/](https://coursehub-7fd47.web.app/)
 
-### Task Match     **Live Site:**
- [https://grapes-market.web.app](https://grapes-market.web.app)
+### Task Match     **Live Site:** [https://grapes-market.web.app](https://grapes-market.web.app)
 
 ### Bills Page     **Live Site:** [https://marygold-asg-9.netlify.app/](https://marygold-asg-9.netlify.app/)
 
@@ -32,7 +31,6 @@ A full-featured web application where users can browse available courses, enroll
 ---
 
 ## 🚀 Live Website
-
 🔗 [Live Link]> [https://coursehub-7fd47.web.app/](https://coursehub-7fd47.web.app/)
 
 
@@ -157,6 +155,7 @@ This is a Bill Management website that allows users to pay utility bills.  Users
 This project is intended to demonstrate a fully functional home page and basic routing setup for a financial bill payment system. It mimics key features found in mobile banking apps.
 
 ## 🚀 Key Features
+
 - Responsive Navbar
 - Hero Image Carousel (using SwiperJS)
 - Organization Grid (DESCO, NESCO, WASA etc.)
